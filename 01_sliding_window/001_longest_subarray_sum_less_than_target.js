@@ -32,3 +32,8 @@ let arr = [2, 1, 5, 1, 3, 2];
 let target = 8;
 
 console.log(longest_subarr(arr, target));
+
+/*
+Time: O(n)
+Space: O(k)
+ */
