@@ -38,4 +38,4 @@ function substring(str) {
     return [max, str.slice(start, start + max)];
 }
 
-console.log(substring("pwwkewxpw")); // [4, "abcd"]
+console.log(substring("pwwkewxpw")); 
